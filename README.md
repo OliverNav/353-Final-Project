@@ -1,30 +1,30 @@
-To run the code:
+To run the code:<br>
 
 Structure:
-├── data_acquisition.py       # Scraper for online MCSR API to generate mcsr_matches_dataset.csv    
-├── data_analysis.py          # Data cleaning and matrix exports
-├── visualization_generator.py # Visualization code to generate plots
-├── mcsr_matches_dataset.csv  # Collected dataset from data_acquisition.py
-├── results/                  # Generated plots
-│   ├── 1_median_time_heatmap.png
-│   ├── 2_forfeit_rate_heatmap.png
-│   ├── 3_rank_progression_lines.png
-│   ├── 4_time_distributions_boxplot.png
-│   └── 4_time_distributions_boxplot.png
-├── .gitignore                # Git ignore rules 
-└── README.md                 # Project documentation
+├── data_acquisition.py       # Scraper for online MCSR API to generate mcsr_matches_dataset.csv    <br>
+├── data_analysis.py          # Data cleaning and matrix exports<br>
+├── visualization_generator.py # Visualization code to generate plots<br>
+├── mcsr_matches_dataset.csv  # Collected dataset from data_acquisition.py<br>
+├── results/                  # Generated plots<br>
+│   ├── 1_median_time_heatmap.png<br>
+│   ├── 2_forfeit_rate_heatmap.png<br>
+│   ├── 3_rank_progression_lines.png<br>
+│   ├── 4_time_distributions_boxplot.png<br>
+│   └── 4_time_distributions_boxplot.png<br>
+├── .gitignore                # Git ignore rules <br>
+└── README.md                 # Project documentation<br>
 
-Requirements:
-requests
-pandas
-numpy
-scipy
-matplotlib
-seaborn
+Requirements:<br>
+requests<br>
+pandas<br>
+numpy<br>
+scipy<br>
+matplotlib<br>
+seaborn<br>
 
-Install with: pip install requests pandas numpy scipy matplotlib seaborn
+Install with: pip install requests pandas numpy scipy matplotlib seaborn<br>
 
-Running the code:
-python data_acquisition.py
-python data_analysis.py
-python visualization_generator.py
+Running the code:<br>
+python data_acquisition.py<br>
+python data_analysis.py<br>
+python visualization_generator.py<br>
