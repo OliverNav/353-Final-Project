@@ -24,8 +24,7 @@ seaborn<br>
 
 Install with: pip install requests pandas numpy scipy matplotlib seaborn<br>
 
-Running the code:<br>
+Running the code (note that data_acquisition.py will take between 1-1.5 hours to finish):<br>
 python data_acquisition.py<br>
-**note that data_acquisition will take between 1-1.5 hours to finish**<br>
 python data_analysis.py<br>
 python visualization_generator.py<br>
