@@ -1,3 +1,4 @@
+#data_acquisition.py: scrapes API to generate csv with data
 import time
 import os
 import requests

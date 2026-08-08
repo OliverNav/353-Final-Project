@@ -1,3 +1,4 @@
+#visualization_generator.py: generates plots/graphs to put in report
 import os
 import matplotlib.pyplot as plt
 import numpy as np
