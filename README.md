@@ -1,6 +1,6 @@
 To run the code:<br>
 
-Structure:
+Structure:<br>
 ├── data_acquisition.py       # Scraper for online MCSR API to generate mcsr_matches_dataset.csv    <br>
 ├── data_analysis.py          # Data cleaning and matrix exports<br>
 ├── visualization_generator.py # Visualization code to generate plots<br>
